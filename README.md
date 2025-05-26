@@ -33,10 +33,8 @@ Building more interactive tools and apps
 
 ## 📫 Let’s Connect!
 
-GitHub: [github.com/Parmeet-K](https://github.com/Parmeet-K)
-
-Email: parmeetk849@gmail.com
-
-Linkedin: [linkedin.com/in/parmeet-kaur-in](http://linkedin.com/in/parmeet-kaur-in)
+[GitHub](https://github.com/Parmeet-K)   
+[Email](parmeetk849@gmail.com)   
+[Linkedin](http://linkedin.com/in/parmeet-kaur-in)
 
 Thanks for visiting — feel free to explore my work, give feedback
