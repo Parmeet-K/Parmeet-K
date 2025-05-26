@@ -35,7 +35,7 @@ Building more interactive tools and apps
 
 [GitHub](https://github.com/Parmeet-K)
 
-[Email](parmeetk849@gmail.com)
+[Email](mailto:parmeetk849@gmail.com)
 
 [Linkedin](http://linkedin.com/in/parmeet-kaur-in)
 
