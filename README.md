@@ -7,7 +7,7 @@ I'm a passionate Web Developer who loves crafting clean, functional, and user-fr
 **Languages & Tools:**
 
 HTML • CSS • JavaScript • MySQL
-VS Code • Git • GitHub
+• VS Code • Git • GitHub
 
 **Specialties:**
 
