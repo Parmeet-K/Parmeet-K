@@ -6,16 +6,14 @@ I'm a passionate Web Developer who loves crafting clean, functional, and user-fr
 
 **Languages & Tools:**
 
-HTML • CSS • JavaScript • MySQL
+HTML • CSS • JavaScript • Java • Node.js • MySQL
 • VS Code • Git • GitHub
 
 **Specialties:**
 
-Front-end development • Responsive design • Interactive UI • Web-based tools
+Front-end development • virsion control • Interactive UI • Web-based tools
 
 ## 🚀 Projects I've Built
-
-🧮 Calculator – A sleek, functional web calculator built with HTML, CSS & JavaScript.
 
 🌐 Portfolio Website – A personal website to showcase my projects and skills.
 
@@ -25,17 +23,13 @@ Each of these projects has helped me grow as a developer — and I'm just gettin
 
 ## 📈 What I’m Working On
 
-Enhancing my JavaScript and MySQL skills
+Enhancing my Java and MySQL skills
 
 Exploring backend technologies
 
-Building more interactive tools and apps
+Building more interactive websites
 
 ## 📫 Let’s Connect!
-
-[GitHub](https://github.com/Parmeet-K)
-
-[Email](mailto:parmeetk849@gmail.com)
 
 [Linkedin](http://linkedin.com/in/parmeet-kaur-in)
 
